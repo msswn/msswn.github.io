@@ -16,3 +16,9 @@ XX XX:XX (Extra verse 1)
 XX XX:XX (Extra verse 2)
 ...
 XX XX:XX (Extra verse n)
+
+<div id="text"></div>
+ 
+<script>
+document.getElementById("text").innerHTML = "Text added by JavaScript code";
+</script>
